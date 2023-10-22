@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "2c3669c74f683087",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d1b41daeaa8ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3282730af2296c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ac18573ee789330",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae885b78b84b50b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ea79366752a244",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc1d6b1bb2b35604",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c044ec1d8eac2e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0eac2515ef10fa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "right": {
+    "id": "cab648b3e845a8ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "441b43eca4ef2ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445b1c1e1d9d5b7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "22dce434efc8f1f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f4611ec5762034c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf75528847727174",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "af133d557ef537bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "df936d9a22ca685a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "e3b7e9a6decd683b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e754c2d5678b7f21",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": true,
+      "switcher:Open quick switcher": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "random-note:Open random note": true,
+      "workspaces:Manage workspace layouts": true,
+      "canvas:Create new canvas": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Create new note": false,
+      "cmdr:Search: Search in all files": false,
+      "cmdr:Files: Show file explorer": false,
+      "cmdr:Quick switcher: Open quick switcher": false,
+      "cmdr:Command palette: Open command palette": false,
+      "cmdr:Graph view: Open local graph": false,
+      "cmdr:Graph view: Open graph view": false,
+      "cmdr:Advanced Tables: Open table controls toolbar": false,
+      "cmdr:Excalidraw: Create new drawing - IN A NEW TAB": false
+    }
+  },
+  "active": "f3282730af2296c7",
+  "lastOpenFiles": [
+    "projects",
+    "articles/Productivity/Inbox Zero Workflow/🔍 Overview of Inbox Zero Workflow.md",
+    "articles/Productivity/Inbox Zero Workflow/📚 Inbox Zero Workflow - Tiago Forte.md",
+    "articles/Productivity/Pomodoro Technique/🍅 Summary of The Pomodoro Technique.md",
+    "Test.md",
+    "index.md",
+    "indexXmd",
+    "indexX.md",
+    "index2.md",
+    "articles/Productivity/Pomodoro Technique/TPT - A Records Sheet.md",
+    "articles/Productivity/Pomodoro Technique/content",
+    "articles/Productivity/Pomodoro Technique/TPT - To Do Today Sheet.md",
+    "articles/Productivity/Pomodoro Technique/TPT - Process.md",
+    "articles/Productivity/Pomodoro Technique/TPT - Implementation.md",
+    "articles/Productivity/Pomodoro Technique/TPT - Goals.md",
+    "articles/Productivity/Pomodoro Technique/TPT - An Activity Inventory Sheet.md",
+    "articles/Productivity/Pomodoro Technique",
+    "articles/Productivity/Atomic Habbits/🔍 Summary of Atomic Habits.md",
+    "articles/Productivity/Atomic Habbits/content",
+    "articles/Productivity/Atomic Habbits/content/Forget about setting goals.md",
+    "articles/Productivity/Atomic Habbits/content/Build identity-based habits.md",
+    "articles/Productivity/Atomic Habbits/content/Small habits make a big difference.md",
+    "articles/Productivity/Atomic Habbits",
+    "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
+    "articles/Productivity/Inbox Zero Workflow/📬 Outlook - Inbox Zero Workflow - Jeff Su.md",
+    "Jeff Su.md",
+    "articles/Projects/Orion Keyboard/Description Note.md",
+    "articles/Knowledge/Knowledge List.md",
+    "articles/Knowledge/Databases/SSDT/🔍 Overview of SSDT.md",
+    "articles/Knowledge/Databases/SQL/🔍 Overview of MSSQL.md",
+    "articles/Knowledge/Databases/🔍 Overview of databases.md",
+    "articles/Knowledge/Databases/SSDT",
+    "articles/Knowledge/Databases/SQL/SQL",
+    "articles/Knowledge/Databases/SQL",
+    "articles/Knowledge/Databases",
+    "notes/005 Slip-Box/001 Bibliographical/IZW",
+    "content/stuff/Finansowa Forteca/FinFortecaYT.png",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.15_Proces-kredytowy-i-proces-zakupu-mieszkania-1024x576.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.14_Co-sie-dzieje-po-podpisaniu-umowy-kredytowej-mieszkanie-w-budowie-1024x576.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.13_Co-sie-dzieje-po-podpisaniu-umowy-kredytowej-1024x576.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.12_Proces-wpisu-hipoteki-min-1024x305.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.11_Analiza-umowy-kredytowej-1024x576.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.10_Proces-kredytowy-krok-3-1024x576.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.9_Ile-czasu-bank-ma-na-wydanie-decyzji-kredytowej-1024x576.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.8_Proces-kredytowy-krok-2-1024x576.webp",
+    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.7_Najwazniejsze-kroki-podczas-kompletowania-dokumentow-1024x576.webp"
+  ]
+}
