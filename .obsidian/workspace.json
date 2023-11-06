@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25d1b41daeaa8ce6",
+        "id": "97ff18c75657f42c",
         "type": "tabs",
         "children": [
           {
-            "id": "f3282730af2296c7",
+            "id": "70c275a933923985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "templates/Programming Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 580.5
   },
   "right": {
     "id": "cab648b3e845a8ec",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "templates/Programming Note.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "templates/Programming Note.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,14 +169,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": true,
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "random-note:Open random note": true,
@@ -195,14 +193,29 @@
       "cmdr:Excalidraw: Create new drawing - IN A NEW TAB": false
     }
   },
-  "active": "f3282730af2296c7",
+  "active": "70c275a933923985",
   "lastOpenFiles": [
+    "templates/Fleeting Note.md",
+    "templates/Programming Note.md",
+    "articles/Knowledge/Untitled.md",
+    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC.md",
+    "templates/Fleeting Note - Template.md",
+    "templates/Programming Note - Template.md",
+    "templates/Fleeting Note - Template - Copy.md",
+    "articles/Knowledge/Python Fundamentals/Untitled.md",
+    "notes/000 Workspace/Data Alchemy.md",
+    "articles/Knowledge/Python Fundamentals",
+    "templates/Fleeting template.md",
+    "articles/Productivity/Inbox Zero Workflow/📚 Inbox Zero Workflow - Tiago Forte.md",
+    "templates/📚 Inbox Zero Workflow - Tiago Forte.md",
+    "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
+    "templates/General.md",
+    "index.md",
+    "articles/Learning Paths",
     "projects",
     "articles/Productivity/Inbox Zero Workflow/🔍 Overview of Inbox Zero Workflow.md",
-    "articles/Productivity/Inbox Zero Workflow/📚 Inbox Zero Workflow - Tiago Forte.md",
     "articles/Productivity/Pomodoro Technique/🍅 Summary of The Pomodoro Technique.md",
     "Test.md",
-    "index.md",
     "indexXmd",
     "indexX.md",
     "index2.md",
@@ -214,25 +227,10 @@
     "articles/Productivity/Pomodoro Technique/TPT - Goals.md",
     "articles/Productivity/Pomodoro Technique/TPT - An Activity Inventory Sheet.md",
     "articles/Productivity/Pomodoro Technique",
-    "articles/Productivity/Atomic Habbits/🔍 Summary of Atomic Habits.md",
     "articles/Productivity/Atomic Habbits/content",
-    "articles/Productivity/Atomic Habbits/content/Forget about setting goals.md",
-    "articles/Productivity/Atomic Habbits/content/Build identity-based habits.md",
-    "articles/Productivity/Atomic Habbits/content/Small habits make a big difference.md",
     "articles/Productivity/Atomic Habbits",
-    "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
-    "articles/Productivity/Inbox Zero Workflow/📬 Outlook - Inbox Zero Workflow - Jeff Su.md",
-    "Jeff Su.md",
-    "articles/Projects/Orion Keyboard/Description Note.md",
-    "articles/Knowledge/Knowledge List.md",
-    "articles/Knowledge/Databases/SSDT/🔍 Overview of SSDT.md",
-    "articles/Knowledge/Databases/SQL/🔍 Overview of MSSQL.md",
-    "articles/Knowledge/Databases/🔍 Overview of databases.md",
     "articles/Knowledge/Databases/SSDT",
     "articles/Knowledge/Databases/SQL/SQL",
-    "articles/Knowledge/Databases/SQL",
-    "articles/Knowledge/Databases",
-    "notes/005 Slip-Box/001 Bibliographical/IZW",
     "content/stuff/Finansowa Forteca/FinFortecaYT.png",
     "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.15_Proces-kredytowy-i-proces-zakupu-mieszkania-1024x576.webp",
     "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.14_Co-sie-dzieje-po-podpisaniu-umowy-kredytowej-mieszkanie-w-budowie-1024x576.webp",

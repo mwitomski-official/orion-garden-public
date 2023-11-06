@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 2,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabPython",
       "FasDiagramProject",
       "FabBitbucket",
       "FasBookOpen",
-      "FasFileLines",
-      "FarFile"
+      "FasFileLines"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +20,10 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false
   },
   "notes": "FarNoteSticky",
   "assets": "FarFile",
