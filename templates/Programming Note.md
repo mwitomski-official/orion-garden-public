@@ -3,7 +3,7 @@ title: "{{title}}"
 description: Put short description here
 author: Mateusz Witomski | Orion
 date: "{{date}} {{time}}"
-type: fleetingNote
+type: programmingNote
 tags:
   - programming
 enableToc: true
@@ -21,5 +21,7 @@ Example code block
 planets[0:3]
 ```
 
-
+```python fold:"This is collapsed" 
+planets[0:3]
+```
 ## References
