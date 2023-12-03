@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dictionary/Programming/FIFO vs LIFO.md",
+                "file": "articles/Knowledge/Typescript/🌀 Reduce.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dictionary/Programming/FIFO vs LIFO.md"
+                "file": "articles/Knowledge/Typescript/🌀 Reduce.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dictionary/Programming/FIFO vs LIFO.md",
+                "file": "articles/Knowledge/Typescript/🌀 Reduce.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,6 @@
       "workspaces:Manage workspace layouts": true,
       "canvas:Create new canvas": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Create new note": false,
       "cmdr:Search: Search in all files": false,
       "cmdr:Files: Show file explorer": false,
@@ -191,16 +190,19 @@
       "cmdr:Graph view: Open local graph": false,
       "cmdr:Graph view: Open graph view": false,
       "cmdr:Advanced Tables: Open table controls toolbar": false,
-      "cmdr:Excalidraw: Create new drawing - IN A NEW TAB": false
+      "cmdr:Excalidraw: Create new drawing - IN A NEW TAB": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27ea79366752a244",
+  "active": "70c275a933923985",
   "lastOpenFiles": [
+    "articles/Knowledge/Learning pathways.md",
+    "articles/Knowledge/Typescript/🌀 Reduce.md",
+    "articles/Knowledge/Python Fundamentals/🐍 Booleans and Conditionals.md",
+    "dictionary/Programming/FIFO vs LIFO.md",
     "articles/Knowledge/Typescript",
     "dictionary/Programming/Mutability vs Immutability.md",
-    "dictionary/Programming/FIFO vs LIFO.md",
     "articles/Knowledge/Python Fundamentals/🐍 Collections.md",
-    "articles/Knowledge/Python Fundamentals/🐍 Booleans and Conditionals.md",
     "dictionary/📔 Dictionary.md",
     "dictionary/Programming/FIFO vs LIFO",
     "articles/Knowledge/Python Fundamentals/🐍 Strings and Dictionaries.md",
@@ -208,7 +210,6 @@
     "Labs/Python Fundamentals/🐍 Kaggle Lab - Loops and List Comprehensions.md",
     "articles/Knowledge/Python Fundamentals/🐍 List comprehensions.md",
     "Labs/Python Fundamentals/🐍 Kaggle Lab - Collections.md",
-    "articles/Knowledge/Learning pathways.md",
     "articles/Knowledge/Python Fundamentals/🐍 Tuples.md",
     "articles/Knowledge/Python Fundamentals/🐍 Tricks.md",
     "templates/Programming Note.md",
@@ -231,7 +232,6 @@
     "templates/General.md",
     "articles/Learning Paths",
     "projects",
-    "indexXmd",
     "content/stuff/Finansowa Forteca/FinFortecaYT.png",
     "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.15_Proces-kredytowy-i-proces-zakupu-mieszkania-1024x576.webp",
     "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.14_Co-sie-dzieje-po-podpisaniu-umowy-kredytowej-mieszkanie-w-budowie-1024x576.webp",
