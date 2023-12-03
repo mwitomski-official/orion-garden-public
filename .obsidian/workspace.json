@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Programming Note.md",
+                "file": "dictionary/Programming/FIFO vs LIFO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5
+    "width": 286.5
   },
   "right": {
     "id": "cab648b3e845a8ec",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Programming Note.md"
+                "file": "dictionary/Programming/FIFO vs LIFO.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Programming Note.md",
+                "file": "dictionary/Programming/FIFO vs LIFO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "e3b7e9a6decd683b",
@@ -169,10 +168,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
       "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
@@ -193,16 +194,34 @@
       "cmdr:Excalidraw: Create new drawing - IN A NEW TAB": false
     }
   },
-  "active": "70c275a933923985",
+  "active": "27ea79366752a244",
   "lastOpenFiles": [
-    "templates/Fleeting Note.md",
+    "articles/Knowledge/Typescript",
+    "dictionary/Programming/Mutability vs Immutability.md",
+    "dictionary/Programming/FIFO vs LIFO.md",
+    "articles/Knowledge/Python Fundamentals/🐍 Collections.md",
+    "articles/Knowledge/Python Fundamentals/🐍 Booleans and Conditionals.md",
+    "dictionary/📔 Dictionary.md",
+    "dictionary/Programming/FIFO vs LIFO",
+    "articles/Knowledge/Python Fundamentals/🐍 Strings and Dictionaries.md",
+    "articles/Knowledge/Python Fundamentals/🐍 Loops.md",
+    "Labs/Python Fundamentals/🐍 Kaggle Lab - Loops and List Comprehensions.md",
+    "articles/Knowledge/Python Fundamentals/🐍 List comprehensions.md",
+    "Labs/Python Fundamentals/🐍 Kaggle Lab - Collections.md",
+    "articles/Knowledge/Learning pathways.md",
+    "articles/Knowledge/Python Fundamentals/🐍 Tuples.md",
+    "articles/Knowledge/Python Fundamentals/🐍 Tricks.md",
     "templates/Programming Note.md",
-    "articles/Knowledge/Untitled.md",
+    "Labs/Python Fundamentals",
+    "Labs",
+    "dictionary/Programming",
+    "dictionary",
+    "templates/Fleeting Note.md",
+    "articles/Knowledge/Python Fundamentals",
     "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC.md",
     "templates/Fleeting Note - Template.md",
     "templates/Programming Note - Template.md",
     "templates/Fleeting Note - Template - Copy.md",
-    "articles/Knowledge/Python Fundamentals/Untitled.md",
     "notes/000 Workspace/Data Alchemy.md",
     "articles/Knowledge/Python Fundamentals",
     "templates/Fleeting template.md",
@@ -210,27 +229,9 @@
     "templates/📚 Inbox Zero Workflow - Tiago Forte.md",
     "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
     "templates/General.md",
-    "index.md",
     "articles/Learning Paths",
     "projects",
-    "articles/Productivity/Inbox Zero Workflow/🔍 Overview of Inbox Zero Workflow.md",
-    "articles/Productivity/Pomodoro Technique/🍅 Summary of The Pomodoro Technique.md",
-    "Test.md",
     "indexXmd",
-    "indexX.md",
-    "index2.md",
-    "articles/Productivity/Pomodoro Technique/TPT - A Records Sheet.md",
-    "articles/Productivity/Pomodoro Technique/content",
-    "articles/Productivity/Pomodoro Technique/TPT - To Do Today Sheet.md",
-    "articles/Productivity/Pomodoro Technique/TPT - Process.md",
-    "articles/Productivity/Pomodoro Technique/TPT - Implementation.md",
-    "articles/Productivity/Pomodoro Technique/TPT - Goals.md",
-    "articles/Productivity/Pomodoro Technique/TPT - An Activity Inventory Sheet.md",
-    "articles/Productivity/Pomodoro Technique",
-    "articles/Productivity/Atomic Habbits/content",
-    "articles/Productivity/Atomic Habbits",
-    "articles/Knowledge/Databases/SSDT",
-    "articles/Knowledge/Databases/SQL/SQL",
     "content/stuff/Finansowa Forteca/FinFortecaYT.png",
     "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.15_Proces-kredytowy-i-proces-zakupu-mieszkania-1024x576.webp",
     "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.14_Co-sie-dzieje-po-podpisaniu-umowy-kredytowej-mieszkanie-w-budowie-1024x576.webp",

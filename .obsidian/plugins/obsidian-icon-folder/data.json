@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabPython",
-      "FasDiagramProject",
-      "FabBitbucket",
-      "FasBookOpen",
-      "FasFileLines"
+      "FabJs",
+      "FabEnvira",
+      "FarKeyboard",
+      "FasBookJournalWhills",
+      "FabPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,11 +23,18 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "notes": "FarNoteSticky",
   "assets": "FarFile",
   "templates": "FasFileLines",
   "articles": "FasBookOpen",
-  "projects": "FasDiagramProject"
+  "projects": "FasDiagramProject",
+  "articles/Knowledge/Python Fundamentals": "FabPython",
+  "dictionary": "FasBookJournalWhills",
+  "dictionary/Programming": "FarKeyboard",
+  "Labs": "FabEnvira",
+  "Labs/Python Fundamentals": "FabPython",
+  "articles/Knowledge/Typescript": "FabJs"
 }

@@ -1,7 +1,6 @@
 [
   "calendar",
   "obsidian-admonition",
-  "cm-editor-syntax-highlight-obsidian",
   "code-block-copy",
   "quick-latex",
   "sliding-panes-obsidian",
@@ -10,5 +9,6 @@
   "obsidian-excalidraw-plugin",
   "quickadd",
   "cmdr",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "code-styler"
 ]
