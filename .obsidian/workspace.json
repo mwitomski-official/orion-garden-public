@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Knowledge/Typescript/🌀 Reduce.md",
+                "file": "notes/000 Workspace/Angular/Kurs Angulara - Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/Knowledge/Typescript/🌀 Reduce.md"
+                "file": "notes/000 Workspace/Angular/Kurs Angulara - Portfolio.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/Knowledge/Typescript/🌀 Reduce.md",
+                "file": "notes/000 Workspace/Angular/Kurs Angulara - Portfolio.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +196,31 @@
   },
   "active": "70c275a933923985",
   "lastOpenFiles": [
-    "articles/Knowledge/Learning pathways.md",
-    "articles/Knowledge/Typescript/🌀 Reduce.md",
-    "articles/Knowledge/Python Fundamentals/🐍 Booleans and Conditionals.md",
-    "dictionary/Programming/FIFO vs LIFO.md",
-    "articles/Knowledge/Typescript",
+    "assets/Pasted image 20240314232948.png",
+    "assets/Pasted image 20240314224732.png",
+    "assets/Pasted image 20240314224501.png",
+    "assets/Pasted image 20240314224225.png",
+    "assets/Pasted image 20240314223238.png",
+    "assets/Pasted image 20240314223202.png",
+    "assets/Pasted image 20240311234022.png",
+    "assets/Pasted image 20240311233053.png",
+    "assets/Pasted image 20240311232945.png",
+    "assets/Pasted image 20240311205233.png",
+    "assets/Pasted image 20240311204713.png",
+    "notes/000 Workspace/Angular/Kurs Angulara - Podstawy.md",
+    "notes/000 Workspace/Angular/Kurs Angulara - Portfolio.md",
+    "notes/000 Workspace/Angular",
+    "index.md",
     "dictionary/Programming/Mutability vs Immutability.md",
+    "dictionary/Programming/FIFO vs LIFO.md",
+    "Labs/Next.js/Pocketsub.md",
+    "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
+    "Labs/Next.js",
     "articles/Knowledge/Python Fundamentals/🐍 Collections.md",
+    "articles/Knowledge/Python Fundamentals/🐍 Booleans and Conditionals.md",
+    "articles/Knowledge/Typescript/🌀 Reduce.md",
+    "articles/Knowledge/Learning pathways.md",
+    "articles/Knowledge/Typescript",
     "dictionary/📔 Dictionary.md",
     "dictionary/Programming/FIFO vs LIFO",
     "articles/Knowledge/Python Fundamentals/🐍 Strings and Dictionaries.md",
@@ -223,24 +241,6 @@
     "templates/Fleeting Note - Template.md",
     "templates/Programming Note - Template.md",
     "templates/Fleeting Note - Template - Copy.md",
-    "notes/000 Workspace/Data Alchemy.md",
-    "articles/Knowledge/Python Fundamentals",
-    "templates/Fleeting template.md",
-    "articles/Productivity/Inbox Zero Workflow/📚 Inbox Zero Workflow - Tiago Forte.md",
-    "templates/📚 Inbox Zero Workflow - Tiago Forte.md",
-    "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
-    "templates/General.md",
-    "articles/Learning Paths",
-    "projects",
-    "content/stuff/Finansowa Forteca/FinFortecaYT.png",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.15_Proces-kredytowy-i-proces-zakupu-mieszkania-1024x576.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.14_Co-sie-dzieje-po-podpisaniu-umowy-kredytowej-mieszkanie-w-budowie-1024x576.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.13_Co-sie-dzieje-po-podpisaniu-umowy-kredytowej-1024x576.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.12_Proces-wpisu-hipoteki-min-1024x305.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.11_Analiza-umowy-kredytowej-1024x576.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.10_Proces-kredytowy-krok-3-1024x576.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.9_Ile-czasu-bank-ma-na-wydanie-decyzji-kredytowej-1024x576.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.8_Proces-kredytowy-krok-2-1024x576.webp",
-    "content/stuff/Kredyt Hipoteczny Krok po Kroku 2.0/1.5.7_Najwazniejsze-kroki-podczas-kompletowania-dokumentow-1024x576.webp"
+    "articles/Knowledge/Python Fundamentals"
   ]
 }
