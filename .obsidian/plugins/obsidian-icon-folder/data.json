@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabGitlab",
       "FabJs",
       "FabEnvira",
       "FarKeyboard",
-      "FasBookJournalWhills",
-      "FabPython"
+      "FasBookJournalWhills"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,6 @@
   "articles/Knowledge/Python Fundamentals": "FabPython",
   "dictionary": "FasBookJournalWhills",
   "dictionary/Programming": "FarKeyboard",
-  "Labs": "FabEnvira",
-  "Labs/Python Fundamentals": "FabPython",
-  "articles/Knowledge/Typescript": "FabJs"
+  "articles/Knowledge/Typescript": "FabJs",
+  "Labs": "FabGitlab"
 }
