@@ -15,7 +15,7 @@ openToc: false # whether to by-default open or close the table of contents on ea
 
 Previous note [📚 Inbox Zero Workflow - Tiago Forte](📚%20Inbox%20Zero%20Workflow%20-%20Tiago%20Forte.md) described how the workflow works if we focused on downstream systems like Google Calendar, Task and Keep. In this note I would like to focus on process and changes related with inbox described by [Jeff Su](Jeff%20Su).
 
-![IZW_Mailbox |800](stuff/files/InboxZeroWorkFlow/IZW_Mailbox.webp)
+![IZW_Mailbox |800]( stuff/files/InboxZeroWorkFlow/IZW_Mailbox.webp)
 
 ## Actions
 

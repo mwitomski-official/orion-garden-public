@@ -10,7 +10,6 @@ tags:
 enableToc: true
 openToc: false
 ---
-
 ## Description
 
 This is the system proposed by [[Tiago Forte]].
