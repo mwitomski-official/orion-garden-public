@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons/Python for Engineers and Scientists.md",
+                "file": "labs/Next.js/Pocketsub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons/Python for Engineers and Scientists.md"
+                "file": "labs/Next.js/Pocketsub.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons/Python for Engineers and Scientists.md",
+                "file": "labs/Next.js/Pocketsub.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,8 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27ea79366752a244",
+  "active": "852963f8494955e0",
   "lastOpenFiles": [
+    "labs/Python Fundamentals/🐍 Kaggle Lab - Loops and List Comprehensions.md",
+    "labs/Python Fundamentals/🐍 Kaggle Lab - Collections.md",
+    "labs/Next.js/Pocketsub.md",
+    "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
+    "articles/Productivity/Inbox Zero Workflow/📚 Inbox Zero Workflow - Tiago Forte.md",
+    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons/Python for Engineers and Scientists.md",
     "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Overview of  Technology Artificial Intelligence Beginner GDC.md",
     "notes/000 Workspace/Introduction to Programming with Python/Lessons/Lecture 0 - Functions, Variables.md",
     "notes/000 Workspace/Introduction to Programming with Python/Lessons/Lecture 0 - Visual Studio Code for CS50.md",
@@ -205,7 +211,6 @@
     "dictionary/Programming/FIFO vs LIFO.md",
     "notes/000 Workspace/Introduction to Programming with Python/Overview of Introduction to Programming with Python.md",
     "notes/000 Workspace/Angular/Kurs Angulara - Podstawy.md",
-    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons/Python for Engineers and Scientists.md",
     "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons",
     "notes/000 Workspace/Angular/Kurs Angulara - Portfolio.md",
     "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC",
@@ -233,12 +238,7 @@
     "Test.md",
     "assets",
     "articles/Productivity/Inbox Zero Workflow/🔍 Overview of Inbox Zero Workflow.md",
-    "articles/Productivity/Inbox Zero Workflow/📚 Inbox Zero Workflow - Tiago Forte.md",
     "articles/Knowledge/Learning pathways.md",
-    "articles/Knowledge/Python Fundamentals/🐍 Collections.md",
-    "articles/Knowledge/Typescript/🌀 Reduce.md",
-    "articles/Knowledge/Python Fundamentals/🐍 Tuples.md",
-    "articles/Knowledge/Python Fundamentals/🐍 Strings and Dictionaries.md",
     "dictionary/Programming",
     "dictionary",
     "labs/Python Fundamentals"
