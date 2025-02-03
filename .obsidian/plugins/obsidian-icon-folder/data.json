@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabGitlab",
-      "FabJs",
-      "FabEnvira",
-      "FarKeyboard",
-      "FasBookJournalWhills"
+      "FabNeos",
+      "FabVuejs",
+      "FabPython",
+      "FabAngular",
+      "FabGitlab"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,16 +25,33 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "notes": "FarNoteSticky",
   "assets": "FarFile",
   "templates": "FasFileLines",
   "articles": "FasBookOpen",
   "projects": "FasDiagramProject",
-  "articles/Knowledge/Python Fundamentals": "FabPython",
   "dictionary": "FasBookJournalWhills",
   "dictionary/Programming": "FarKeyboard",
-  "articles/Knowledge/Typescript": "FabJs",
-  "labs": "FabGitlab"
+  "labs": "FabGitlab",
+  "notes/000 Workspace/Angular": "FabAngular",
+  "notes/000 Workspace/Introduction to AI with Python": "FabPython",
+  "notes/000 Workspace/Python Fundamentals": "FabPython",
+  "notes/000 Workspace/Typescript": "FabJs",
+  "labs/Python Fundamentals": "FabPython",
+  "notes/000 Workspace/Introduction to Programming with Python": "FabPython",
+  "notes/000 Workspace/Machine Learning A-Z": "FabPython",
+  "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC": "FabPython",
+  "notes/000 Workspace/Vue.js": "FabVuejs",
+  "notes/000 Workspace/Next.js": "FabNeos",
+  "notes/000 Workspace/Angular - The Complete Guide 2024": "FabAngular",
+  "notes/000 Workspace/Python Objected-Oriented Programing": "FabPython"
 }

@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ed8839f4ccb00140",
+        "id": "cda1eade46ae72b9",
         "type": "tabs",
         "children": [
           {
-            "id": "852963f8494955e0",
+            "id": "fc02846d1ba4dce9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labs/Next.js/Pocketsub.md",
+                "file": "articles/Productivity/Pomodoro Technique/🍅 Summary of The Pomodoro Technique.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🍅 Summary of The Pomodoro Technique"
             }
           }
         ]
@@ -39,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,22 +79,26 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "d0eac2515ef10fa6",
+            "id": "dafcf95a73ce108a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 361.5
   },
   "right": {
     "id": "cab648b3e845a8ec",
@@ -94,25 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labs/Next.js/Pocketsub.md"
-              }
-            }
-          },
-          {
-            "id": "22dce434efc8f1f2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "labs/Next.js/Pocketsub.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
+                "file": "articles/Productivity/Pomodoro Technique/🍅 Summary of The Pomodoro Technique.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🍅 Summary of The Pomodoro Technique"
             }
           },
           {
@@ -123,7 +131,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -131,15 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "af133d557ef537bd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -147,7 +151,28 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "42570f36baab2dfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/Machine Learning A-Z/assets/ML-A-Z-Dataset.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ML-A-Z-Dataset"
             }
           }
         ]
@@ -161,14 +186,16 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,57 +217,55 @@
       "cmdr:Graph view: Open local graph": false,
       "cmdr:Graph view: Open graph view": false,
       "cmdr:Advanced Tables: Open table controls toolbar": false,
-      "cmdr:Excalidraw: Create new drawing - IN A NEW TAB": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "cmdr:Excalidraw: Create new drawing - IN A NEW TAB": false
     }
   },
-  "active": "852963f8494955e0",
+  "active": "fc02846d1ba4dce9",
   "lastOpenFiles": [
-    "labs/Python Fundamentals/🐍 Kaggle Lab - Loops and List Comprehensions.md",
-    "labs/Python Fundamentals/🐍 Kaggle Lab - Collections.md",
-    "labs/Next.js/Pocketsub.md",
+    "articles/Productivity/Pomodoro Technique/TPT - A Records Sheet.md",
+    "assets/Machine Learning A-Z/assets/ML-A-Z-Dataset.png",
+    "articles/Productivity/Inbox Zero Workflow/🔍 Overview of Inbox Zero Workflow.md",
+    "articles/Productivity/Inbox Zero Workflow/📬 Outlook - Inbox Zero Workflow - Jeff Su.md",
     "articles/Productivity/Inbox Zero Workflow/📬 Gmail - Inbox Zero Workflow - Jeff Su.md",
     "articles/Productivity/Inbox Zero Workflow/📚 Inbox Zero Workflow - Tiago Forte.md",
-    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons/Python for Engineers and Scientists.md",
-    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Overview of  Technology Artificial Intelligence Beginner GDC.md",
-    "notes/000 Workspace/Introduction to Programming with Python/Lessons/Lecture 0 - Functions, Variables.md",
-    "notes/000 Workspace/Introduction to Programming with Python/Lessons/Lecture 0 - Visual Studio Code for CS50.md",
-    "notes/000 Workspace/Introduction to AI with Python/Lessons/Lecture 0 - Artificial Intelligence.md",
-    "dictionary/📔 Dictionary.md",
-    "dictionary/Programming/Mutability vs Immutability.md",
-    "dictionary/Programming/FIFO vs LIFO.md",
-    "notes/000 Workspace/Introduction to Programming with Python/Overview of Introduction to Programming with Python.md",
-    "notes/000 Workspace/Angular/Kurs Angulara - Podstawy.md",
-    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons",
-    "notes/000 Workspace/Angular/Kurs Angulara - Portfolio.md",
-    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC",
-    "notes/000 Workspace/Introduction to AI with Python/Overview of Introduction to Artificial Intelligence with Python.md",
-    "notes/000 Workspace/Introduction to Programming with Python/Lessons",
-    "notes/000 Workspace/Introduction to Programming with Python",
-    "assets/Pasted image 20240319224510.png",
-    "assets/Pasted image 20240319182638.png",
-    "assets/Pasted image 20240319182154.png",
-    "notes/000 Workspace/Introduction to AI with Python/Lessons",
-    "notes/000 Workspace/Introduction to AI with Python",
-    "assets/Pasted image 20240319090018.png",
-    "assets/Pasted image 20240319083840.png",
-    "assets/Pasted image 20240319082605.png",
-    "assets/Pasted image 20240319081929.png",
-    "assets/Pasted image 20240319080201.png",
-    "assets/Pasted image 20240226181309.png",
-    "assets/Pasted image 20240318220732.png",
-    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC.md",
+    "notes/000 Workspace/Python Objected-Oriented Programing/Info.md",
     "notes/000 Workspace/Data Alchemy.md",
-    "templates/Programming Note.md",
-    "templates/Fleeting Note.md",
-    "index.md",
-    "articles/Productivity/Pomodoro Technique/🍅 Summary of The Pomodoro Technique.md",
-    "Test.md",
-    "assets",
-    "articles/Productivity/Inbox Zero Workflow/🔍 Overview of Inbox Zero Workflow.md",
-    "articles/Knowledge/Learning pathways.md",
-    "dictionary/Programming",
-    "dictionary",
-    "labs/Python Fundamentals"
+    "notes/000 Workspace/Learning pathways.md",
+    "labs/Python Fundamentals/🐍 Kaggle Lab - Collections.md",
+    "notes/000 Workspace/Python Objected-Oriented Programing/OOP - Refresher.md",
+    "notes/000 Workspace/Angular/Poziom 1/Kurs Angulara - Podstawy.md",
+    "notes/000 Workspace/Python Fundamentals/🐍 Booleans and Conditionals.md",
+    "notes/000 Workspace/Untitled.md",
+    "notes/000 Workspace/Python Fundamentals/🐍 Tuples.md",
+    "notes/000 Workspace/Python Objected-Oriented Programing",
+    "notes/000 Workspace/Python Fundamentals/🐍 Loops.md",
+    "labs/Python Fundamentals/🐍 Kaggle Lab - Loops and List Comprehensions.md",
+    "notes/002 Fleeting Notes/How to generate UnitTests for your .NET project.md",
+    "notes/002 Fleeting Notes/default!.md",
+    "notes/002 Fleeting Notes/Angular form ngSubmit vs submit.md",
+    "notes/002 Fleeting Notes/AddScoped vs AddSingleton vs AddTransient.md",
+    "notes/000 Workspace/Angular - The Complete Guide 2024/Angular Essentials/Updating State.md",
+    "notes/000 Workspace/Angular - The Complete Guide 2024/Angular Essentials/Attribute Binding.md",
+    "notes/000 Workspace/Angular/Poziom 2/Material Design/Material Design - Formularze cz-1.md",
+    "notes/000 Workspace/Angular/Poziom 2/Material Design/Material Design - Formularze cz-2.md",
+    "notes/000 Workspace/Angular/Poziom 1/Kurs Angulara - Portfolio.md",
+    "notes/000 Workspace/Angular - The Complete Guide 2024/Angular Essentials",
+    "notes/000 Workspace/Angular - The Complete Guide 2024",
+    "assets/Pasted image 20240604002004.png",
+    "notes/000 Workspace/Angular/Poziom 2/Stan aplikacji i nawigacja",
+    "assets/Pasted image 20240521180915.png",
+    "assets/Pasted image 20240521180258.png",
+    "assets/Pasted image 20240521174652.png",
+    "assets/Pasted image 20240521173728.png",
+    "assets/Pasted image 20240521172630.png",
+    "assets/Pasted image 20240510003526.png",
+    "assets/Pasted image 20240509231840.png",
+    "assets/Pasted image 20240509231636.png",
+    "notes/000 Workspace/Next.js",
+    "notes/000 Workspace/Vue.js",
+    "notes/000 Workspace/Technology Artificial Intelligence Beginner GDC/Lessons/NumPy Essential Training",
+    "notes/000 Workspace/Angular/Poziom 2/Material Design",
+    "notes/000 Workspace/Angular/Poziom 2/Testy",
+    "assets/Machine Learning A-Z/source/Machine-Learning-A-Z-Course-Downloadable-Slides-V1.5.pdf"
   ]
 }

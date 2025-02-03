@@ -1,14 +1,12 @@
 [
   "calendar",
   "obsidian-admonition",
-  "code-block-copy",
-  "quick-latex",
-  "sliding-panes-obsidian",
-  "obsidian-style-settings",
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
   "quickadd",
   "cmdr",
+  "code-styler",
   "obsidian-icon-folder",
-  "code-styler"
+  "quick-latex",
+  "code-block-copy",
+  "obsidian-style-settings"
 ]
